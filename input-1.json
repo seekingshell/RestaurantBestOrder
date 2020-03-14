@@ -1,0 +1,681 @@
+[
+  {
+    "sides": {
+      "Rice": 100,
+      "Beans": 150
+    },
+    "mains": {
+      "Tostada": 900,
+      "Enchilada": 850,
+      "Tamale": 800
+    },
+    "money": 1000
+  },
+  {
+    "sides": {
+      "Rice": 200,
+      "Beans": 250
+    },
+    "mains": {
+      "Enchilada": 900,
+      "Quesadilla": 850
+    },
+    "money": 1000
+  },
+  {
+    "sides": {
+      "Elote": 200
+    },
+    "mains": {
+      "Superior": 1100,
+      "Original": 900
+    },
+    "money": 1000
+  },
+  {
+    "sides": {
+      "Elote": 100
+    },
+    "mains": {
+      "Burrito": 800,
+      "Toastada": 800,
+      "Taco": 800,
+      "Tamale": 800
+    },
+    "money": 1000
+  },
+  {
+    "sides": {
+      "Elote": 100,
+      "Rice": 100,
+      "Beans": 100
+    },
+    "mains": {
+      "Burrito": 700,
+      "Tostada": 700,
+      "Enchilada": 700,
+      "Tamale": 700
+    },
+    "money": 1000
+  },
+  {
+    "sides": {
+      "Elote": 350,
+      "Rice&Beans": 650,
+      "Tortillas": 100
+    },
+    "mains": {
+      "Fajitas": 700,
+      "Enchilada": 750
+    },
+    "money": 1000
+  },
+  {
+    "sides": {},
+    "mains": {
+      "MagicalMain": 10000
+    },
+    "money": 1000
+  },
+  {
+    "sides": {
+      "MagicalSide": 10000
+    },
+    "mains": {
+      "MagicalMain": 10000
+    },
+    "money": 10000
+  },
+  {
+    "sides": {},
+    "mains": {
+      "Carnitas": 9106
+    },
+    "money": 3943
+  },
+  {
+    "sides": {
+      "Dcmahtbd": 10000
+    },
+    "mains": {
+      "Lwprhqi": 7572
+    },
+    "money": 4679
+  },
+  {
+    "sides": {
+      "Baaxx": 6631,
+      "Kiydfpn": 3368
+    },
+    "mains": {
+      "Msurj": 7360
+    },
+    "money": 3559
+  },
+  {
+    "sides": {
+      "Dfb": 2383,
+      "E": 1161,
+      "En": 6455
+    },
+    "mains": {
+      "Jhcrrnkr": 4360
+    },
+    "money": 2473
+  },
+  {
+    "sides": {
+      "Stlneg": 187,
+      "W": 3479,
+      "Xhyertf": 2407,
+      "Oyopkbk": 3924
+    },
+    "mains": {
+      "Myohoqou": 116
+    },
+    "money": 1638
+  },
+  {
+    "sides": {},
+    "mains": {
+      "Ehghvdel": 8165,
+      "Qdsehvc": 8314
+    },
+    "money": 2596
+  },
+  {
+    "sides": {
+      "Ypybk": 10000
+    },
+    "mains": {
+      "Amlaaf": 3687,
+      "Oenvvj": 5964
+    },
+    "money": 96
+  },
+  {
+    "sides": {
+      "Qe": 7780,
+      "Vg": 2219
+    },
+    "mains": {
+      "Vxlgc": 1424,
+      "Ljjqq": 615
+    },
+    "money": 2733
+  },
+  {
+    "sides": {
+      "Zec": 4018,
+      "Uo": 993,
+      "Ajbepq": 4987
+    },
+    "mains": {
+      "Eli": 8787,
+      "Wrewyy": 6562
+    },
+    "money": 4559
+  },
+  {
+    "sides": {
+      "Wzotzl": 785,
+      "Vczyuyhk": 3372,
+      "Pnxyc": 3678,
+      "Onixdbn": 2163
+    },
+    "mains": {
+      "Rbs": 3537,
+      "Qombzxr": 6197
+    },
+    "money": 7562
+  },
+  {
+    "sides": {
+      "Tisjg": 5546,
+      "Sevuzs": 3988,
+      "Kkw": 465
+    },
+    "mains": {
+      "Xe": 2263,
+      "Cunjw": 7808,
+      "Dxrpeydq": 4292,
+      "Kmk": 9397,
+      "Whte": 613
+    },
+    "money": 1841
+  },
+  {
+    "sides": {
+      "Bkrvr": 4308,
+      "Oohcgkyx": 3318,
+      "Qz": 2373
+    },
+    "mains": {
+      "Rnnmk": 4743,
+      "Yl": 7133,
+      "Ytlg": 836,
+      "Vy": 6014,
+      "S": 5955
+    },
+    "money": 8905
+  },
+  {
+    "sides": {
+      "P": 4472,
+      "Bzek": 3214,
+      "Rupcmas": 2312
+    },
+    "mains": {
+      "Mkbkpim": 4630,
+      "A": 9772,
+      "Uuafmua": 9713,
+      "Grev": 8322,
+      "Y": 3258
+    },
+    "money": 5702
+  },
+  {
+    "sides": {
+      "La": 1557,
+      "Zlfraci": 4649,
+      "Yy": 666,
+      "Gwgq": 3126
+    },
+    "mains": {
+      "Djb": 3206,
+      "Piswju": 8161,
+      "Xrag": 4759,
+      "Ynysllg": 8167,
+      "Bz": 2607
+    },
+    "money": 6304
+  },
+  {
+    "sides": {
+      "Jyuocp": 2883,
+      "Efr": 303,
+      "Hyh": 2501,
+      "Gonuvjlc": 1901,
+      "Qsng": 2409
+    },
+    "mains": {
+      "Tciw": 3669,
+      "Dggh": 3820,
+      "Nbs": 3392,
+      "Esxt": 3877,
+      "Da": 9417
+    },
+    "money": 9650
+  },
+  {
+    "sides": {
+      "Qwbk": 1372,
+      "Sp": 4,
+      "Wnwhh": 2244,
+      "Ahfqnl": 855,
+      "Xp": 1870,
+      "Mf": 1412,
+      "Ihklyng": 2119,
+      "Vrypplw": 120
+    },
+    "mains": {
+      "Ejhks": 3691,
+      "Uz": 3056,
+      "Pia": 8103,
+      "Etpqv": 2410,
+      "Kje": 5062,
+      "Zmeadav": 8847,
+      "Ohuwkjjp": 6938,
+      "Wxczo": 7852
+    },
+    "money": 8087
+  },
+  {
+    "sides": {
+      "Ajcywhq": 2,
+      "Aza": 1223,
+      "Pmafaec": 2085,
+      "srdugnh": 1,
+      "Ry": 2142,
+      "Lmlpfp": 762,
+      "Btqzyjbc": 1413,
+      "Bpvffxe": 1307,
+      "Adjzqm": 1060
+    },
+    "mains": {
+      "Gykkoi": 1689,
+      "Smllr": 7713,
+      "Ilq": 8926,
+      "Bdd": 8949,
+      "Nzv": 1400,
+      "Nyxeo": 8403,
+      "Ynladu": 3993,
+      "Zrwrkzj": 1994,
+      "Vfknymww": 4207
+    },
+    "money": 9866
+  },
+  {
+    "sides": {
+      "Qnqm": 261,
+      "Vpqekjuc": 680,
+      "Pmdoawrk": 1925,
+      "Aelrj": 3156,
+      "Ajprcksr": 2344,
+      "I": 1630
+    },
+    "mains": {
+      "Tkgny": 6647,
+      "Gerbuql": 1662,
+      "Bvneipt": 6887,
+      "Zmbo": 6778,
+      "Rc": 7999,
+      "Zpx": 3341,
+      "Cuvxmg": 4623,
+      "meqoz": 8487,
+      "Bnwaq": 4231
+    },
+    "money": 1491
+  },
+  {
+    "sides": {
+      "Bdkbb": 1755,
+      "Rwjeqm": 1067,
+      "Twira": 623,
+      "Kgf": 506,
+      "R": 2765,
+      "Wpgbmddt": 3281
+    },
+    "mains": {
+      "Gjydw": 1423,
+      "Owq": 6335,
+      "Smb": 7942,
+      "D": 6921,
+      "Ui": 9882,
+      "Nuv": 4916,
+      "Djbyh": 6547
+    },
+    "money": 2117
+  },
+  {
+    "sides": {
+      "Nrfrsi": 1986,
+      "Vwt": 31,
+      "Q": 428,
+      "O": 1862,
+      "Errcior": 1364,
+      "Un": 2302,
+      "Lcohv": 2023
+    },
+    "mains": {
+      "Dsxtn": 8613,
+      "Rnjexlt": 6627,
+      "N": 3203,
+      "Djiljzsi": 462,
+      "Ihehyi": 4162,
+      "Rtbkx": 9315
+    },
+    "money": 4827
+  },
+  {
+    "sides": {
+      "Onkpzoaj": 1370,
+      "Izhndojv": 1184,
+      "Fhgfbo": 1431,
+      "Oqajeqxa": 1366,
+      "Mhmgvw": 485,
+      "Os": 1597,
+      "Kvaso": 1279,
+      "Femujwx": 1203,
+      "Nkrschf": 79
+    },
+    "mains": {
+      "Oz": 5788
+    },
+    "money": 8987
+  },
+  {
+    "sides": {
+      "Kccq": 3233,
+      "Onxdm": 3237,
+      "Qqjea": 709,
+      "Zfuwfr": 1171,
+      "Ojljfad": 764,
+      "Gbs": 853,
+      "Ygoellcf": 28
+    },
+    "mains": {
+      "Xnrh": 5297,
+      "M": 6126,
+      "Rr": 106
+    },
+    "money": 9271
+  },
+  {
+    "sides": {
+      "Kmzt": 2067,
+      "Fhctu": 372,
+      "Ipowig": 2141,
+      "Aruqk": 1208,
+      "Bkdo": 1867,
+      "Jbylmf": 753,
+      "F": 611,
+      "Vmhak": 976
+    },
+    "mains": {
+      "Hyll": 9720
+    },
+    "money": 4775
+  },
+  {
+    "sides": {
+      "Qsusih": 1314,
+      "K": 1982,
+      "Dp": 1143,
+      "Clk": 1974,
+      "Jropkxp": 946,
+      "Wqspki": 1764,
+      "Jy": 873
+    },
+    "mains": {
+      "Fqa": 7985,
+      "Kslcdgdy": 2584
+    },
+    "money": 2169
+  },
+  {
+    "sides": {
+      "Pvmd": 994,
+      "Pan": 2196,
+      "Pz": 774,
+      "Swkq": 884,
+      "Rxhmuhn": 1014,
+      "Xesfuyv": 1037,
+      "Bwitxse": 1467,
+      "Kj": 1630
+    },
+    "mains": {
+      "Jsdthji": 8702,
+      "Kjg": 3916
+    },
+    "money": 8066
+  },
+  {
+    "sides": {
+      "Ip": 3596,
+      "Gqwn": 322,
+      "Nzqk": 6080
+    },
+    "mains": {
+      "Gsyz": 697,
+      "Qlxvur": 9657,
+      "B": 7643,
+      "Ql": 3675,
+      "Yd": 8351,
+      "Vdk": 2018,
+      "Ovrqksri": 7711
+    },
+    "money": 535
+  },
+  {
+    "sides": {
+      "Ssds": 10000
+    },
+    "mains": {
+      "Vlyw": 4383,
+      "Kdry": 7886,
+      "Mrb": 9374,
+      "Ksfnfjlf": 8700,
+      "Penrhojz": 527,
+      "Saguzujq": 945,
+      "Feril": 7351,
+      "Vqgwx": 9923
+    },
+    "money": 1162
+  },
+  {
+    "sides": {
+      "Xtjdwm": 6151,
+      "Jday": 3688,
+      "X": 159
+    },
+    "mains": {
+      "Va": 8770,
+      "Lmjag": 303,
+      "Kiug": 3861,
+      "Tt": 6085,
+      "Azyv": 152,
+      "Pmcjn": 1084,
+      "Bnuvkrp": 6403
+    },
+    "money": 4930
+  },
+  {
+    "sides": {
+      "Jls": 10000
+    },
+    "mains": {
+      "G": 3845,
+      "Kzyyn": 4679,
+      "Rx": 1265,
+      "Kblasg": 2401,
+      "Wfpg": 6160,
+      "Tknazdp": 857,
+      "Edahki": 1774,
+      "Jyisvplc": 2203
+    },
+    "money": 439
+  },
+  {
+    "sides": {
+      "Vftc": 10000
+    },
+    "mains": {
+      "Lmmx": 7943,
+      "Z": 2819,
+      "Euh": 719,
+      "Jbc": 1019,
+      "Uyikkafa": 5505,
+      "Vqxiy": 1186,
+      "Gfbmxqe": 5180,
+      "Xad": 3110,
+      "Bhwqgpjg": 434
+    },
+    "money": 9672
+  },
+  {
+    "sides": {
+      "L": 1306,
+      "Lojn": 1100,
+      "Kbhcdy": 1277,
+      "Jkdifw": 1028,
+      "Zpz": 265,
+      "Qy": 1100,
+      "Vei": 853,
+      "Sar": 1314,
+      "V": 1215,
+      "Jl": 537
+    },
+    "mains": {
+      "Fm": 7773,
+      "Hrtcvzb": 782,
+      "Jopmqfuk": 9189,
+      "Pa": 6782,
+      "Qdlvaz": 9297,
+      "Ex": 3821,
+      "U": 2052,
+      "Kmm": 204,
+      "Uwoipkn": 7268,
+      "Efz": 8964
+    },
+    "money": 1905
+  },
+  {
+    "sides": {
+      "Vknsvreb": 37,
+      "Agomjq": 1235,
+      "Mwcertuh": 1708,
+      "Cc": 226,
+      "Qnupy": 1265,
+      "Jjrifn": 1306,
+      "Ffdgfv": 1892,
+      "Hjd": 993,
+      "Qgpfn": 22,
+      "On": 1310
+    },
+    "mains": {
+      "Xt": 4466,
+      "Qajzd": 3346,
+      "Qyzchxv": 5349,
+      "Gwpnvyv": 3197,
+      "Gbh": 5407,
+      "Vtwqh": 470,
+      "Wjcoshj": 8913,
+      "Wkaxb": 6485,
+      "Qkktzz": 3769,
+      "Noa": 7489
+    },
+    "money": 7784
+  },
+  {
+    "sides": {
+      "Tga": 536,
+      "Ckm": 1447,
+      "Dklx": 809,
+      "Ctwk": 1420,
+      "Fh": 41,
+      "Msx": 1274,
+      "Mquuwmkb": 1384,
+      "Gfqtk": 842,
+      "Oqzox": 712,
+      "Ap": 1531
+    },
+    "mains": {
+      "Llpcjqb": 1637,
+      "Tklh": 6012,
+      "Wbowk": 659,
+      "Ahhqy": 4084,
+      "Xwcp": 1435,
+      "Qhyo": 4760,
+      "Puwqqzmb": 2749,
+      "Gw": 8856,
+      "Msgdfr": 1523,
+      "Itcaejq": 1348
+    },
+    "money": 4708
+  },
+  {
+    "sides": {
+      "Chtvfnda": 2209,
+      "Mpuqurk": 147,
+      "Tqqxxl": 762,
+      "Bgto": 114,
+      "Spbx": 168,
+      "Hfmi": 1236,
+      "Ugr": 1509,
+      "Ph": 1673,
+      "Valb": 1104,
+      "Ejdj": 1073
+    },
+    "mains": {
+      "s": 605,
+      "Fa": 2868,
+      "Tabfiw": 723,
+      "Tjjtbb": 494,
+      "Eyasgall": 4014,
+      "Vrgph": 8449,
+      "Lgddzbsv": 3310,
+      "Byam": 2936,
+      "Mqtfovl": 5178,
+      "Xhy": 6874
+    },
+    "money": 394
+  },
+  {
+    "sides": {
+      "J": 275,
+      "Vumhs": 170,
+      "Qotqtvtu": 1756,
+      "Xsvgxy": 1786,
+      "Bpv": 1743,
+      "Gvgceg": 923,
+      "Lt": 1263,
+      "Gcd": 590,
+      "Xqlcu": 1128,
+      "Thmodsbj": 361
+    },
+    "mains": {
+      "Ufip": 5583,
+      "Vbycwt": 4953,
+      "Yfratzq": 3559,
+      "Udrptxp": 1594,
+      "Bchpswzp": 2509,
+      "Afnd": 3973,
+      "Wxwfyvr": 8955,
+      "Oq": 1508,
+      "Ayeib": 6092,
+      "Zwzvp": 8811
+    },
+    "money": 1059
+  }
+]
